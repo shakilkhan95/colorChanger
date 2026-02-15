@@ -27,6 +27,7 @@ body{
     align-items: center;
     gap: 10px;
     padding: 10px;
+    user-select: none;
 }
 
 #heading {
